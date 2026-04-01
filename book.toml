@@ -1,0 +1,15 @@
+[book]
+title = "The ÐecisionToolkit Book"
+authors = ["Dariusz Depta <depta@engos.de>"]
+description = "The ÐecisionToolkit book"
+language = "en"
+src = "src"
+
+[rust]
+edition = "2021"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[preprocessor.yapp]
