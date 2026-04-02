@@ -2,31 +2,34 @@
 dsntk
 
 ^dsntk-ver
-0.0.4
+0.2.0
 
 ^dsntk
 [**dsntk**](https://github.com/DecisionToolkit)
 
-^dt-normal
-[ÐecisionToolkit](https://github.com/DecisionToolkit)
-
 ^dt
-[**ÐecisionToolkit**](https://github.com/DecisionToolkit)
+'<span style="font-weight:600;color:#33691E;">ÐecisionToolkit</span>'
 
 ^dmn-ver
 1.4
 
+^DMN
+[Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
+
 ^dmn
 [DMN](https://www.omg.org/spec/DMN)™
+
+^OMG
+[Object Management Group](https://www.omg.org) (OMG®)
 
 ^rust
 [Rust](https://www.rust-lang.org/)
 
 ^note
-📗 _NOTE:_
+> [!NOTE]
 
-^hint
-💡 _HINT:_
+^tip
+> [!TIP]
 
 ^subcommand-srv-ref
 For a more detailed description of **srv** command, please refer to [Serving DMN models](subcommands/subcommand-srv.md).
@@ -74,4 +77,4 @@ For a more detailed description of **rdt** command, please refer to [Recognizing
 For a more detailed description of **exs** command, please refer to [Saving examples](subcommands/subcommand-exs.md).
 
 ^tbd
-<span style="font-size:2em">🚧</span><span style="font-size:1.6em"> work in progress </span><span style="font-size:2em">🚧</span>
+⏳ Detailed documentation is on the way.
