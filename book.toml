@@ -1,12 +1,12 @@
 [book]
-title = "ÐecisionToolkit Documentation"
+title = "ÐecisionToolkit"
 authors = ["Dariusz Depta <depta@engos.de>"]
-description = "The ÐecisionToolkit book"
+description = "ÐecisionToolkit Documentation"
 language = "en"
 src = "src"
 
 [rust]
-edition = "2021"
+edition = "2024"
 
 [output.html.fold]
 enable = true
