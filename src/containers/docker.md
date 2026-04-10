@@ -11,7 +11,7 @@ COPY ./target/x86_64-unknown-linux-musl/release/dsntk /
 # copy example DMN model to container root directory
 COPY ./dsntk/src/examples/e2/e2.dmn /
 
-# start DSNTK as a service and display all deployed invocables
+# start ÐecisionToolkit as a service and display all deployed invocables
 CMD ["/dsntk", "srv", "--verbose"]
 ```
 
@@ -24,7 +24,7 @@ CMD ["/dsntk", "srv", "--verbose"]
 NAME=dsntk
 
 # container version
-VERSION=0.0.3
+VERSION=0.3.0
 
 # stop existing Docker container
 docker stop $NAME
@@ -50,10 +50,10 @@ docker logs -f $NAME
 # press Ctrl+C to stop following the log file ;-)
 ```
 
-command
+Run command:
 
 ```shell
-$ ./docker.sh
+./docker.sh
 ```
 ```text
   .
@@ -69,14 +69,16 @@ Deployed invocables:
 dsntk 0.0.0.0:22022
 ```
 
-a
+Display running containers:
 
 ```shell
-$ docker ps
+docker ps
 ```
 result
 
 ```text
 CONTAINER ID   IMAGE        COMMAND                  CREATED         STATUS         PORTS                     NAMES
-fcb45779ce7d   dsntk:0.0.3  "/dsntk srv --verbose"   2 minutes ago   Up 2 minutes   0.0.0.0:22022->22022/tcp  dsntk
+fcb45779ce7d   dsntk:0.3.0  "/dsntk srv --verbose"   2 minutes ago   Up 2 minutes   0.0.0.0:22022->22022/tcp  dsntk
 ```
+
+^checked

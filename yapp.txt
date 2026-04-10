@@ -2,7 +2,7 @@
 dsntk
 
 ^dsntk-ver
-0.2.0
+0.3.0
 
 ^dsntk
 [**dsntk**](https://github.com/DecisionToolkit)
@@ -11,13 +11,13 @@ dsntk
 '<span style="font-weight:600;color:#33691E;">ÐecisionToolkit</span>'
 
 ^dmn-ver
-1.4
+1.5
 
-^DMN
+^DecisionModelandNotation
 [Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
 
-^dmn
-[DMN](https://www.omg.org/spec/DMN)™
+^DMN
+[DMN™](https://www.omg.org/dmn)
 
 ^OMG
 [Object Management Group](https://www.omg.org) (OMG®)
@@ -31,50 +31,20 @@ dsntk
 ^tip
 > [!TIP]
 
-^subcommand-srv-ref
-For a more detailed description of **srv** command, please refer to [Serving DMN models](subcommands/subcommand-srv.md).
+^important
+> [!IMPORTANT]
 
-^subcommand-edm-ref
-For a more detailed description of **edm** command, please refer to [Evaluating DMN models](subcommands/subcommand-edm.md).
+^warning
+> [!WARNING]
 
-^subcommand-edt-ref
-For a more detailed description of **edt** command, please refer to [Evaluating decision tables](subcommands/subcommand-edt.md).
+^caution
+> [!CAUTION]
 
-^subcommand-efe-ref
-For a more detailed description of **efe** command, please refer to [Evaluating FEEL expressions](subcommands/subcommand-efe.md).
-
-^subcommand-pdm-ref
-For a more detailed description of **pdm** command, please refer to [Parsing DMN models](subcommands/subcommand-pdm.md).
-
-^subcommand-pdt-ref
-For a more detailed description of **pdt** command, please refer to [Parsing decision tables](subcommands/subcommand-pdt.md).
-
-^subcommand-pfe-ref
-For a more detailed description of **pfe** command, please refer to [Parsing FEEL expressions](subcommands/subcommand-pfe.md).
-
-^subcommand-tdm-ref
-For a more detailed description of **tdm** command, please refer to [Testing DMN models](subcommands/subcommand-tdm.md).
-
-^subcommand-tdt-ref
-For a more detailed description of **tdt** command, please refer to [Testing decision tables](subcommands/subcommand-tdt.md).
-
-^subcommand-tfe-ref
-For a more detailed description of **tfe** command, please refer to [Testing FEEL expressions](subcommands/subcommand-tfe.md).
-
-^subcommand-xdm-ref
-For a more detailed description of **xdm** command, please refer to [Exporting DMN models](subcommands/subcommand-xdm.md).
-
-^subcommand-xdt-ref
-For a more detailed description of **xdt** command, please refer to [Exporting decision tables](subcommands/subcommand-xdt.md).
-
-^subcommand-xfe-ref
-For a more detailed description of **xfe** command, please refer to [Exporting FEEL expressions](subcommands/subcommand-xfe.md).
-
-^subcommand-rdt-ref
-For a more detailed description of **rdt** command, please refer to [Recognizing decision tables](subcommands/subcommand-rdt.md).
-
-^subcommand-exs-ref
-For a more detailed description of **exs** command, please refer to [Saving examples](subcommands/subcommand-exs.md).
+^srv
+[srv]: ./commands/command-srv.md
 
 ^tbd
 ⏳ Detailed documentation is on the way.
+
+^checked
+⅌

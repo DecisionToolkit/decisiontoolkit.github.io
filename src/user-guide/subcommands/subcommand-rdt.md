@@ -1,3 +1,0 @@
-# Recognizing decision tables
-
-^tbd
