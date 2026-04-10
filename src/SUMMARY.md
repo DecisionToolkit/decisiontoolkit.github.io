@@ -2,7 +2,7 @@
 
 - [Overview](overview.md)
 - [Installation](installation.md)
-- [Getting Started](getting-started.md)
+- [Getting started](getting-started.md)
 
 ---
 
