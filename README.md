@@ -1,7 +1,5 @@
 **dsntk** | ÐecisionToolkit
 
-## ÐecisionToolkit documentation
-
 [![MIT licensed][mit-badge]][mit-url]
 [![Apache 2.0 licensed][apache-badge]][apache-url]
 [![Contributor Covenant][cc-badge]][cc-url]
@@ -16,9 +14,11 @@
 [cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 [cc-url]: https://github.com/DecisionToolkit/dsntk/blob/main/CODE_OF_CONDUCT.md
 
+# Documentation
+
 ## Overview
 
-Source code for ÐecisionToolkit documentstion.
+Source code for ÐecisionToolkit documentation.
 
 ## License
 
