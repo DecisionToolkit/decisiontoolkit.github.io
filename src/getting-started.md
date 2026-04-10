@@ -103,10 +103,10 @@ Output:
 
 For more details, refer to [Serving DMN models][srv].
 
-[srv]: ./commands/command-srv.md
-[edt]: ./commands/command-edt.md
-[edm]: ./commands/command-edm.md
-[efe]: ./commands/command-efe.md
-[exs]: ./commands/command-exs.md
+[srv]: commands/srv.md
+[edt]: commands/edt.md
+[edm]: commands/edm.md
+[efe]: commands/efe.md
+[exs]: commands/exs.md
 
 ^checked

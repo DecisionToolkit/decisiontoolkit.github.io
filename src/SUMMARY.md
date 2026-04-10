@@ -1,8 +1,8 @@
 # Summary
 
-- [Overview](./overview.md)
-- [Installation](./installation.md)
-- [Getting Started](./getting-started.md)
+- [Overview](overview.md)
+- [Installation](installation.md)
+- [Getting Started](getting-started.md)
 
 ---
 
@@ -10,32 +10,32 @@
 
 ---
 
-- [Serving DMN models](./commands/command-srv.md)
-- [Evaluating DMN models](./commands/command-edm.md)
-- [Evaluating decision tables](./commands/command-edt.md)
-- [Evaluating FEEL expressions](./commands/command-efe.md)
-- [Parsing DMN models](./commands/command-pdm.md)
-- [Parsing decision tables](./commands/command-pdt.md)
-- [Parsing FEEL expressions](./commands/command-pfe.md)
-- [Testing DMN models](./commands/command-tdm.md)
-- [Testing decision tables](./commands/command-tdt.md)
-- [Testing FEEL expressions](./commands/command-tfe.md)
-- [Exporting DMN models](./commands/command-xdm.md)
-- [Exporting decision tables](./commands/command-xdt.md)
-- [Exporting FEEL expressions](./commands/command-xfe.md)
-- [Saving examples](./commands/command-exs.md)
+- [Serving DMN models](commands/srv.md)
+- [Evaluating DMN models](commands/edm.md)
+- [Evaluating decision tables](commands/edt.md)
+- [Evaluating FEEL expressions](commands/efe.md)
+- [Parsing DMN models](commands/pdm.md)
+- [Parsing decision tables](commands/pdt.md)
+- [Parsing FEEL expressions](commands/pfe.md)
+- [Testing DMN models](commands/tdm.md)
+- [Testing decision tables](commands/tdt.md)
+- [Testing FEEL expressions](commands/tfe.md)
+- [Exporting DMN models](commands/xdm.md)
+- [Exporting decision tables](commands/xdt.md)
+- [Exporting FEEL expressions](commands/xfe.md)
+- [Saving examples](commands/exs.md)
 
 ---
 
-- [FEEL](reference-guide/feel/feel.md)
-  - [Arithmetic](reference-guide/feel/arithmetic/arithmetic.md)
-    - [Addition](reference-guide/feel/arithmetic/addition.md)
-    - [Subtraction](reference-guide/feel/arithmetic/subtraction.md)
-    - [Multiplication](reference-guide/feel/arithmetic/multiplication.md)
-    - [Division](reference-guide/feel/arithmetic/division.md)
-    - [Exponentiation](reference-guide/feel/arithmetic/exponentiation.md)
-    - [Negation](reference-guide/feel/arithmetic/negation.md)
-  - [Built-in functions](reference-guide/feel/bifs/bifs.md)
+- [FEEL](references/feel/feel.md)
+  - [Arithmetic](references/feel/arithmetic/arithmetic.md)
+    - [Addition](references/feel/arithmetic/addition.md)
+    - [Subtraction](references/feel/arithmetic/subtraction.md)
+    - [Multiplication](references/feel/arithmetic/multiplication.md)
+    - [Division](references/feel/arithmetic/division.md)
+    - [Exponentiation](references/feel/arithmetic/exponentiation.md)
+    - [Negation](references/feel/arithmetic/negation.md)
+  - [Built-in functions](references/feel/bifs/bifs.md)
 
 ---
 

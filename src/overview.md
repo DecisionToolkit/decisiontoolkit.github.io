@@ -18,19 +18,19 @@ Users can test DMN models, decision tables, and FEEL expressions, and export the
 
 ## Features
 
-- [Serving DMN models](./commands/command-srv.md)
-- [Evaluating DMN models](./commands/command-edm.md)
-- [Evaluating decision tables](./commands/command-edt.md)
-- [Evaluating FEEL expressions](./commands/command-efe.md)
-- [Parsing DMN models](./commands/command-pdm.md)
-- [Parsing decision tables](./commands/command-pdt.md)
-- [Parsing FEEL expressions](./commands/command-pfe.md)
-- [Testing DMN models](./commands/command-tdm.md)
-- [Testing decision tables](./commands/command-tdt.md)
-- [Testing FEEL expressions](./commands/command-tfe.md)
-- [Exporting DMN models](./commands/command-xdm.md)
-- [Exporting decision tables](./commands/command-xdt.md)
-- [Exporting FEEL expressions](./commands/command-xfe.md)
+- [Serving DMN models](commands/srv.md)
+- [Evaluating DMN models](commands/edm.md)
+- [Evaluating decision tables](commands/edt.md)
+- [Evaluating FEEL expressions](commands/efe.md)
+- [Parsing DMN models](commands/pdm.md)
+- [Parsing decision tables](commands/pdt.md)
+- [Parsing FEEL expressions](commands/pfe.md)
+- [Testing DMN models](commands/tdm.md)
+- [Testing decision tables](commands/tdt.md)
+- [Testing FEEL expressions](commands/tfe.md)
+- [Exporting DMN models](commands/xdm.md)
+- [Exporting decision tables](commands/xdt.md)
+- [Exporting FEEL expressions](commands/xfe.md)
 
 ## Status
 

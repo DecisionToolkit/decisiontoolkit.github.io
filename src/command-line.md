@@ -213,17 +213,17 @@ or short:
 dsntk -V
 ```
 
-[edm]: ./commands/command-edm.md
-[edt]: ./commands/command-edt.md
-[efe]: ./commands/command-efe.md
-[pdm]: ./commands/command-pdm.md
-[pdt]: ./commands/command-pdt.md
-[pfe]: ./commands/command-pfe.md
-[tdm]: ./commands/command-tdm.md
-[tdt]: ./commands/command-tdt.md
-[tfe]: ./commands/command-tfe.md
-[xdm]: ./commands/command-xdm.md
-[xdt]: ./commands/command-xdt.md
-[xfe]: ./commands/command-xfe.md
-[srv]: ./commands/command-srv.md
-[exs]: ./commands/command-exs.md 
+[edm]: commands/edm.md
+[edt]: commands/edt.md
+[efe]: commands/efe.md
+[pdm]: commands/pdm.md
+[pdt]: commands/pdt.md
+[pfe]: commands/pfe.md
+[tdm]: commands/tdm.md
+[tdt]: commands/tdt.md
+[tfe]: commands/tfe.md
+[xdm]: commands/xdm.md
+[xdt]: commands/xdt.md
+[xfe]: commands/xfe.md
+[srv]: commands/srv.md
+[exs]: commands/exs.md 

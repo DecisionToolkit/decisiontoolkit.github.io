@@ -9,7 +9,7 @@ business knowledge model or decision service.
 
 To explain in details, how to run and use the ^dt server, we assume
 that the built-in examples are already saved in the `~/examples` directory
-(see [Saving examples](./command-exs.md) for details).
+(see [Saving examples](exs.md) for details).
 
 Change to the directory containing the examples:
 
