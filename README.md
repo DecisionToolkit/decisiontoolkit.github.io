@@ -1,6 +1,6 @@
 **dsntk** | ÐecisionToolkit
 
-## The ÐecisionToolkit book
+## ÐecisionToolkit documentation
 
 [![MIT licensed][mit-badge]][mit-url]
 [![Apache 2.0 licensed][apache-badge]][apache-url]
@@ -18,7 +18,7 @@
 
 ## Overview
 
-Source code for ÐecisionToolkit book.
+Source code for ÐecisionToolkit documentstion.
 
 ## License
 
@@ -35,7 +35,3 @@ Any contributions are greatly appreciated.
 If you would like to get involved, please don't hesitate to reach out to us.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
-
-```shell
-curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.5.2/mdbook-v0.5.2-x86_64-unknown-linux-gnu.tar.gz | tar -xz --directory=./mdbook  
-```
