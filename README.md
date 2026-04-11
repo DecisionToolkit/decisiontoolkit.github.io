@@ -21,6 +21,11 @@
 
 Source code for ÐecisionToolkit documentation.
 
+> [!TIP]
+> **Contributions are always welcome!**
+>
+> If you’d like to help expand or improve this documentation, please open a Pull Request!
+
 ## License
 
 Licensed under either of

@@ -47,4 +47,6 @@ We encourage users to try ^dt and share their feedback to help us enhance its us
 > This book assumes you’re using ^dt version **^dsntk-ver** or later.
 > Please visit [Installation](./installation.md) chapter to learn how to install or update ^dt.
 
+^contrib
+
 ^checked

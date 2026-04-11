@@ -44,7 +44,20 @@ dsntk
 [srv]: ./commands/command-srv.md
 
 ^tbd
-⏳ Detailed documentation is on the way.
+"
+⏳ Detailed documentation is on the way...
+^contrib
+"
+
+^contrib
+"
+> [!TIP]
+> **Contributions are always welcome!**
+>
+> If you’d like to help expand or improve this documentation,
+> please open a Pull Request in our GitHub repository:
+> <https://github.com/DecisionToolkit/decisiontoolkit.github.io>
+"
 
 ^checked
 ⅌
