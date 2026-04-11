@@ -1,7 +1,13 @@
 <div style="font-size:3em;color:#33691E;font-weight:600;margin-top:10pt;">ÐecisionToolkit</div>
 <span style="font-size:1.5em;color:gray;">build, test & execute decision models</span>
 
+<div style="display:flex;justify-content:center;background-color:#33691E;">
+<div style="max-width:200px;">
+
 ![logo](./images/decision-toolkit.svg)
+
+</div>
+</div>
 
 ^dt is a set of tools designed to build, test and evaluate decision models, constructed basing
 on the ^DecisionModelandNotation specification,
