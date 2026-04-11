@@ -13,6 +13,7 @@
 [apache-notice-url]: NOTICE
 [cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 [cc-url]: https://github.com/DecisionToolkit/dsntk/blob/main/CODE_OF_CONDUCT.md
+[ÐecisionToolkit]: https://github.com/DecisionToolkit/dsntk
 
 # Documentation
 
@@ -31,7 +32,6 @@ at your option.
 
 ## Contribution
 
-Any contributions are greatly appreciated.
-If you would like to get involved, please don't hesitate to reach out to us.
+Any contributions to **[ÐecisionToolkit]** are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
