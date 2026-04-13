@@ -65,8 +65,12 @@ shall be dual licensed as above, without any additional terms or conditions.
 
 ## Versions
 
-|  ^dt |   ^dsntk-ver |
-|-----:|-------------:|
-| ^DMN | **^dmn-ver** |
+<div style="display:flex;align-content:flex-start">
+
+| ÐecisionToolkit |     DMN™     |
+|:---------------:|:------------:|
+| **v^dsntk-ver** | **^dmn-ver** |
+
+</div>
 
 ^footer
