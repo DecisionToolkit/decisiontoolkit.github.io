@@ -137,3 +137,5 @@ which represents a space in [percent-encoding](https://en.wikipedia.org/wiki/Per
 See [RFC3986](https://datatracker.ietf.org/doc/html/rfc3986#section-2.4) for more details.
 
 [JSON API]: https://jsonapi.org
+
+^footer

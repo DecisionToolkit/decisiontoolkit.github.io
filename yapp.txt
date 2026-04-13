@@ -13,14 +13,11 @@ dsntk
 ^dmn-ver
 1.5
 
-^DecisionModelandNotation
-[Decision Model and Notation](https://www.omg.org/dmn) (DMN™)
-
 ^DMN
 [DMN™](https://www.omg.org/dmn)
 
 ^OMG
-[Object Management Group](https://www.omg.org) (OMG®)
+[OMG®](https://www.omg.org)
 
 ^rust
 [Rust](https://www.rust-lang.org/)
@@ -59,5 +56,9 @@ dsntk
 > <https://github.com/DecisionToolkit/decisiontoolkit.github.io>
 "
 
-^checked
-⅌
+^footer
+'
+<div style="text-align:right;font-size:0.8em;border-top:1px solid #EEEEEE;margin-top:5mm;break-after:page;">
+Build and execute decisions ⅌ 0.3.0.1
+</div>
+'

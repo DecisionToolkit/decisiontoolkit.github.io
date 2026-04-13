@@ -6,3 +6,5 @@
 - [Division](division.md)
 - [Exponentiation](exponentiation.md)
 - [Negation](negation.md)
+
+^footer

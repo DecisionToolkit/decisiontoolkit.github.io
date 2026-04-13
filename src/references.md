@@ -24,3 +24,5 @@
 - [Graph algorithms](https://crates.io/crates/petgraph)
 - [Java integration using JNI](https://crates.io/crates/jni)
 - [Language Server Protocol](https://langserver.org)
+
+^footer

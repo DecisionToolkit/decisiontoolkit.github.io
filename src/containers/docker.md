@@ -81,4 +81,4 @@ CONTAINER ID   IMAGE        COMMAND                  CREATED         STATUS     
 fcb45779ce7d   dsntk:0.3.0  "/dsntk srv --verbose"   2 minutes ago   Up 2 minutes   0.0.0.0:22022->22022/tcp  dsntk
 ```
 
-^checked
+^footer

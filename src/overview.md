@@ -9,11 +9,10 @@
 </div>
 </div>
 
-^dt is a set of tools designed to build, test and evaluate decision models, constructed basing
-on the ^DecisionModelandNotation specification,
-which is an industry standard governed by the ^OMG.
+^dt is a set of tools for designing, testing and executing decision models
+based on the ^DMN specification, an industry standard governed by ^OMG.
 
-^dt aims to be performant, reliable, and fully compliant with the ^DMN specification,
+^dt aims to be performant, reliable, and fully compliant with the DMN specification,
 ensuring accurate evaluation of decision models. All tools are implemented in ^rust,
 a programming language known for its security, efficiency and reliability.
 
@@ -43,10 +42,31 @@ Users can test DMN models, decision tables, and FEEL expressions, and export the
 ^dt is **PRODUCTION READY**, although some features may still be refined or changed based on testing and user feedback.
 We encourage users to try ^dt and share their feedback to help us enhance its usability and performance.
 
-^note
-> This book assumes you’re using ^dt version **^dsntk-ver** or later.
-> Please visit [Installation](./installation.md) chapter to learn how to install or update ^dt.
+## License
 
-^contrib
+[mit-url]: https://opensource.org/licenses/MIT
+[mit-license-url]: https://github.com/DecisionToolkit/dsntk/blob/main/LICENSE-MIT
+[apache-url]: https://www.apache.org/licenses/LICENSE-2.0
+[apache-license-url]: https://github.com/DecisionToolkit/dsntk/blob/main/LICENSE
+[apache-notice-url]: https://github.com/DecisionToolkit/dsntk/blob/main/NOTICE
 
-^checked
+^dt is licensed under either of
+
+- [MIT license][mit-url] (see [LICENSE-MIT][mit-license-url]) or
+- [Apache License, Version 2.0][apache-url] (see [LICENSE][apache-license-url] and [NOTICE][apache-notice-url])
+
+at your option.
+
+## Contribution
+
+Any contributions to ^dt are greatly appreciated.
+All contributions intentionally submitted for inclusion in the work by you,
+shall be dual licensed as above, without any additional terms or conditions.
+
+## Versions
+
+|  ^dt |   ^dsntk-ver |
+|-----:|-------------:|
+| ^DMN | **^dmn-ver** |
+
+^footer

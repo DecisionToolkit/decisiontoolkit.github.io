@@ -37,4 +37,4 @@ cargo install dsntk
 [Cargo]: https://doc.rust-lang.org/cargo/getting-started/installation.html
 [GitHub releases]: https://github.com/DecisionToolkit/dsntk/releases
 
-^checked
+^footer

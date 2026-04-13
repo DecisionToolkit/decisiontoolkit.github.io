@@ -28,3 +28,5 @@ examples
 
 4 directories, 6 files
 ```
+
+^footer

@@ -109,4 +109,4 @@ For more details, refer to [Serving DMN models][srv].
 [efe]: commands/efe.md
 [exs]: commands/exs.md
 
-^checked
+^footer

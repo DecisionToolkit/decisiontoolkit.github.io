@@ -227,3 +227,5 @@ dsntk -V
 [xfe]: commands/xfe.md
 [srv]: commands/srv.md
 [exs]: commands/exs.md 
+
+^footer

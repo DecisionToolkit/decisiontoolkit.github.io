@@ -45,7 +45,4 @@
 
 ---
 
-- [License](license.md)
-- [Contributing](contributing.md)
 - [References](references.md)
-- [Versions](versions.md)
