@@ -1,5 +1,5 @@
 <div style="font-size:3em;color:#33691E;font-weight:600;margin-top:10pt;">ÐecisionToolkit</div>
-<span style="font-size:1.5em;color:gray;">Design, test and execute decisions</span>
+<span style="font-size:1.5em;color:gray;">Design and execute decisions</span>
 
 <div style="display:flex;justify-content:center;background-color:#33691E;margin-top:16px">
 <div style="max-width:200px;">
