@@ -30,7 +30,7 @@ jobs:
           tag_mdbook=$(curl -sSL 'https://api.github.com/repos/rust-lang/mdbook/releases/latest'| jq -r '.tag_name')
           url_mdbook="https://github.com/rust-lang/mdBook/releases/download/${tag_mdbook}/mdbook-${tag_mdbook}-x86_64-unknown-linux-gnu.tar.gz"
           tag_mdbook_yapp=$(curl -sSL 'https://api.github.com/repos/EngosSoftware/mdbook-yapp/releases/latest' | jq -r '.tag_name')
-          url_mdbook_yapp="https://github.com/EngosSoftware/mdbook-yapp/releases/download/v2.0.1/mdbook-yapp-${tag_mdbook_yapp}-x86_64-unknown-linux-gnu.tar.gz"
+          url_mdbook_yapp="https://github.com/EngosSoftware/mdbook-yapp/releases/download/${tag_mdbook_yapp}/mdbook-yapp-${tag_mdbook_yapp}-x86_64-unknown-linux-gnu.tar.gz"
           mkdir mdbook
           curl -sSL $url_mdbook | tar -xz --directory=./mdbook
           curl -sSL $url_mdbook_yapp | tar -xz --directory=./mdbook
