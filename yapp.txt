@@ -1,3 +1,10 @@
+^footer
+'
+<div style="text-align:right;font-size:0.8em;border-top:1px solid #EEEEEE;margin-top:5mm;padding:1mm;break-after:page;">
+ÐecisionToolkit v^dsntk-ver
+</div>
+'
+
 ^dsntk-small
 dsntk
 
@@ -55,10 +62,3 @@ dsntk
 > please open a Pull Request in our GitHub repository:
 > <https://github.com/DecisionToolkit/decisiontoolkit.github.io>
 "
-
-^footer
-'
-<div style="text-align:right;font-size:0.8em;border-top:1px solid #EEEEEE;margin-top:5mm;break-after:page;">
-Build and execute decisions ⅌ 0.3.0-2
-</div>
-'
