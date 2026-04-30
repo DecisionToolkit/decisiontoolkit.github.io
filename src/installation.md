@@ -7,7 +7,7 @@ You can either download a prebuilt binary or install from source using [Cargo].
 ## Download a prebuilt binary
 
 - Go to [GitHub releases].
-- Select a version and expand the **Assets** section
+- Select a version and expand the **Assets** section.
 - Download the archive for your operating system.
 - Extract it and run the ^dt executable.
 
